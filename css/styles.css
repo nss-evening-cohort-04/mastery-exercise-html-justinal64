@@ -1,0 +1,40 @@
+.content {
+    width: 100%;
+}
+
+.card{
+    width: 30%;
+    display: inline-block;
+    margin: 1.5%;
+}
+
+.article_border {
+    border: 1px solid lightblue;
+}
+
+.card_title {
+    border: 1px dotted lightgray;
+}
+
+p {
+    text-align: justify;
+}
+
+header p {
+    font-weight: bold;
+}
+
+.bold_text {
+    font-weight: 900;
+}
+
+.available {
+    width: 100%;
+    background-color:darkgrey;
+    color: yellow;
+}
+
+section img {
+    width: 125px;
+    height: 125px;
+}
